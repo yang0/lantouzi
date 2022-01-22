@@ -1,7 +1,7 @@
 // 1 这个地方填写自己的智选服务订单号
 // 2 登录懒投资
 // 3 然后复制黏贴这个文件全文到chrome的console里面执行就行了
-const contractIds = [333, 444]
+const contractIds = [665505, 225711];
 
 require.config({
     paths: {

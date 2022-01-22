@@ -1,0 +1,22 @@
+{
+  "name": "eastmoney",
+  "version": "1.0.0",
+  "description": "天天基金网",
+  "main": "manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node manager.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "htmlparser2": "^7.2.0",
+    "node-eval": "^2.0.0",
+    "node-fetch": "^3.1.0"
+  },
+  "devDependencies": {
+    "import-http": "^0.3.1"
+  }
+}
